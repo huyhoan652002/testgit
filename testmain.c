@@ -2,4 +2,7 @@
 
 
 <sh.ci>
-int main ();
+
+
+
+Int main2();
